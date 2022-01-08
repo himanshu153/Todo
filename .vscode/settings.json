@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9485247e-d628-42cc-a6b9-1a7f84f50bf9/resourceGroups/Web_Services/providers/Microsoft.Web/sites/techonew",
+    "appService.deploySubpath": "."
+}
